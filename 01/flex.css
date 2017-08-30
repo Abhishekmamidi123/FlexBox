@@ -1,0 +1,8 @@
+/* Flex properties */
+
+.container{
+  display: flex;
+  border: 5px solid black;
+  flex-direction: row;
+  /*column, column-reverse, row, row-reverse*/
+}
