@@ -1,0 +1,14 @@
+/* Flex properties */
+
+.container{
+  /*default is row wise*/
+  display: flex;
+  border: 1px solid black;
+  /*default property "flex-start"*/
+  /*default property row*/
+  flex-direction: row;
+  justify-content: space-between;
+  /*in mobile main axis -- horizontal*/
+  /*In mobile main axis -- vertical*/
+  /*flex-direction: row-reverse;*/
+}
